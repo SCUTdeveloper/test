@@ -1,2 +1,2 @@
-laptop GIT passphrase : га
-laboratory computer passphrase ЃК none
+laptop GIT passphrase:have
+laboratory computer passphrase:none
